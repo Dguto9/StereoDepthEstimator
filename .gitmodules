@@ -1,0 +1,6 @@
+[submodule "matrixmodule"]
+	path = matrixmodule
+	url = git@github.com:dguto9/matrixmodule
+[submodule "imageprocessinglibrary"]
+	path = imageprocessinglibrary
+	url = git@github.com:dguto9/imageprocessinglibrary
